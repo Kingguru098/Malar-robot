@@ -22,9 +22,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1M
-#     MY ALL BOTS :- Abishnoi_bots
-#     GITHUB :- KingAbishnoi ""
+# TG :- @Lucifer_official27
+#     MY ALL BOTS :- kingworld27
+#     GITHUB :- King098 ""
 
 
 import html
@@ -119,8 +119,8 @@ PM_START_TEX = """
 
 PM_START_TEXT = """
    *ʜᴇʟʟᴏ {} !*
-   ━━━━━━━ *ᴇxᴏɴ* ━━━━━━━
-   ᴇxᴏɴ ʀᴏʙᴏᴛ ɪꜱ ᴀ 
+   ━━━━━━━ *MALAR* ━━━━━━━
+   MALAR ʀᴏʙᴏᴛ ɪꜱ ᴀ 
    ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 
    ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ
    ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ
@@ -153,7 +153,7 @@ buttons = [
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="sᴏᴜʀᴄᴇ 🌐", url="https://github.com/TEAM-ABG/ExonRobot"
+            text="King 🌐", url="https://t.me/kingworld27"
         ),
     ],
     [
